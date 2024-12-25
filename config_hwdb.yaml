@@ -1,0 +1,4 @@
+alveo_u250_firesim_gemmini_rocket_singlecore_no_nic:
+    bitstream_tar: https://raw.githubusercontent.com/firesim/firesim-public-bitstreams/d22c9f278e9eaf4ed4130dd0bab737d8ade44f9c/xilinx_alveo_u250/alveo_u250_firesim_gemmini_rocket_singlecore_no_nic.tar.gz
+    deploy_quintuplet_override: null
+    custom_runtime_config: null

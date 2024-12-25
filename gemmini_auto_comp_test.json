@@ -1,0 +1,13 @@
+{
+  "benchmark_name": "gemmini",
+  "common_simulation_outputs": [
+    "uartlog"
+  ],
+  "workloads": [
+    {
+      "name": "auto_comp_test-baremetal",
+      "bootbinary": "auto_comp_test-baremetal",
+      "rootfs": "../../../../../software/firemarshal/boards/default/installers/firesim/dummy.rootfs"
+    }
+  ]
+}
